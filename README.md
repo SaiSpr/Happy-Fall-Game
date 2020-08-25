@@ -7,6 +7,12 @@ I encourage and challenge you to leverage what I or others have already worked o
 
 $ git clone https://github.com/SaiSpr/Happy-Fall-Game
 
+Demo Clip :
+
+
+![Happy Fall Gify](https://user-images.githubusercontent.com/63905195/91222955-85adc280-e73d-11ea-810b-28d932b67ae2.gif)
+
+
 Game Demo :
 https://saispr.github.io/Happy-Fall-Game/
 
