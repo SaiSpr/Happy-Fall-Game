@@ -5,7 +5,7 @@ This HTML5 game is free and available to use for anyone interested in making gam
 tweek and customize some of the details to then be able to create a game quickly. Why rewrite logic for a game when someone has already done it, right? That's the point.
 I encourage and challenge you to leverage what I or others have already worked on so that the process will be that much easier you. Why reinvent the wheel?
 
-$ git clone https://github.com/SaiSpr/Happy-Fall-Game.git
+$ git clone https://github.com/SaiSpr/Happy-Fall-Game
 
 Game Demo :
 https://saispr.github.io/Happy-Fall-Game/
