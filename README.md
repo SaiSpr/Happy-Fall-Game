@@ -7,6 +7,9 @@ I encourage and challenge you to leverage what I or others have already worked o
 
 $ git clone https://github.com/SaiSpr/Happy-Fall-Game.git
 
+Game Demo :
+https://saispr.github.io/Happy-Fall-Game/
+
 Other Resources
 Creating Games with Construct 2 Youtube Channel - https://www.youtube.com/user/ScirraVideos
 Construct 2 Advanced Game Development (Blog Series) - http://blogs.msdn.com/b/quick_thoughts/archive/2015/01/12/construct-2-advanced-game-development-microsoft-virtual-academy.asp
